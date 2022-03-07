@@ -5,7 +5,8 @@ import './App.css';
 
 function App() {
   const [count, setCount] = useState(0);
-  console.log(count);
+  const a = 1;
+  console.log(a);
   return (
     <div className="App">
       <header className="App-header">
